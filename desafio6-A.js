@@ -1,6 +1,6 @@
 console.log("----- Ejercicio A -----");
 
-var cantidadDeGatos = 10;
+var cantidadDeGatos = 15;
 
 
 var gatos = ["😺", "😸", "😹"];
