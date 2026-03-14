@@ -1,7 +1,7 @@
 console.log("----- Ejercicio C -----");
 
-var cantidadDeGatos = 10;
-var cantidadDePasos = 4;
+var cantidadDeGatos = 12;
+var cantidadDePasos = 5;
 
 for (var i = 1; i <= cantidadDeGatos; i++) {
 
