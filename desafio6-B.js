@@ -1,6 +1,6 @@
 console.log("----- Ejercicio B -----");
 
-var cantidadDePasos = 6;
+var cantidadDePasos = 8;
 
 for (var i = 1; i <= cantidadDeGatos; i++) {
 
